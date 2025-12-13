@@ -26,8 +26,7 @@ export default function Hero() {
             You're still uploading products manually? Updating stock by hand? <span className="text-orange-500 font-bold">Seriously?</span>
           </p>
           <p className="text-lg md:text-xl text-gray-400">
-            Get a website that scrapes every product from Selloship automatically, updates 24/7,
-            and sends customers straight to your WhatsApp to buy instantly.
+            Get a website that automatically syncs products from supplier platforms like Sello_ships, updates 24/7, and sends customers straight to your WhatsApp to buy instantly.
           </p>
           <p className="text-2xl md:text-3xl text-white font-bold mt-8">
             You focus on selling. The site handles the rest.
