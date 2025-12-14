@@ -17,7 +17,7 @@ export default function Packages() {
     'Auto-updating scraper',
     'Lightning-fast loading',
     'WhatsApp button on every item',
-    'Cheap, fast, and ridiculously effective',
+    // 'Cheap, fast, and ridiculously effective',
   ];
 
   return (

@@ -12,22 +12,22 @@ export default function DemoModal({ isOpen, onClose }: DemoModalProps) {
   const demoSites = [
     {
       title: 'Cynthia Ugwu',
-      url: 'https://cynthiaugwu1.netlify.app/',
+      url: 'https://cynthia-ugwu-fawn.vercel.app/',
       color: 'from-purple-600 to-pink-600',
     },
     {
       title: 'Expert Fabrication',
-      url: 'https://expertfabrication.netlify.app/',
+      url: 'https://expertfabrication.vercel.app/',
       color: 'from-blue-600 to-cyan-600',
     },
     {
       title: 'Aqua Watch',
-      url: 'https://aquawatch1.netlify.app/',
+      url: 'https://aquawatch-front.vercel.app/',
       color: 'from-cyan-600 to-blue-600',
     },
     {
       title: 'Sole Style',
-      url: 'https://solestyle1.netlify.app/',
+      url: 'https://sole-style-two.vercel.app/',
       color: 'from-orange-600 to-red-600',
     },
     {
