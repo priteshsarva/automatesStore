@@ -10,6 +10,16 @@ export default function DemoModal({ isOpen, onClose }: DemoModalProps) {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
 
   const demoSites = [
+     {
+      title: 'watchpro3',
+      url: 'https://watchpro3.vercel.app/',
+      color: 'from-purple-600 to-pink-600',
+    },
+     {
+      title: 'omni luxe',
+      url: 'https://omniluxe-six.vercel.app/',
+      color: 'from-purple-600 to-pink-600',
+    },
     {
       title: 'Cynthia Ugwu',
       url: 'https://cynthia-ugwu-fawn.vercel.app/',
