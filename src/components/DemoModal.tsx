@@ -32,7 +32,7 @@ export default function DemoModal({ isOpen, onClose }: DemoModalProps) {
     },
     {
       title: 'Aqua Watch',
-      url: 'https://aquawatch-front.vercel.app/',
+      url: 'https://www.theaquawatch.com/',
       color: 'from-cyan-600 to-blue-600',
     },
     {
